@@ -1,0 +1,21 @@
+// napoleon
+                    /*
+                    https://hips.hearstapps.com/hmg-prod/images/napoleon-crossing-the-alps-1802-the-full-french-title-of-news-photo-1700601601.jpg?crop=1.00xw:0.904xh;0,0.0576xh&resize=980:*
+                    */
+
+                    // Julius Ceasar
+                    /*
+                    https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRFFullzqgaw6LZkI7K4FG8StFCgQns_x_ClBLYnuYQxZ8_CQOwliZRMWnndxUTQzSuSNGyxTtaXH_BWSY
+                    */
+
+                    // alexander the greate
+                    /*https://hips.hearstapps.com/hmg-prod/images/gettyimages-463906803sq.jpg*/
+
+                    //Cleopatra
+                    /*https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTagMmR2d10zw2l3Wl4jr-phIg5vJPh2sOmRQ&s*/
+
+                    //Leonardo da Vince
+                    /*https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_G5r53TLdwVOLQvg50uLgGUCFiWya6IBgJw&s*/
+
+                    //Abraham Lincoln
+                    /*https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/1200px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg*/
